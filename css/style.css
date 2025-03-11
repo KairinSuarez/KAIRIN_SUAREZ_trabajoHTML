@@ -64,6 +64,12 @@ h1 { margin-top: 0%;
     transition: 0.40s ease-out;
 }
 
+.enlace1 {
+    text-decoration: none;
+    color: #742701;
+    font-size: large;
+}
+
 
 
 .linea { border-color: #f70e83 ; background-color: #f70e83;}
@@ -498,9 +504,4 @@ textarea:focus{
     transition: all;
 }
 
-/******************** INFO ********************
-***** A continuacion un error para que el css NO valide ******/
-
-SOY UN ERROR
-
-/**** FIN ****/
+/* FIN*/
